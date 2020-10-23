@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/assignment-bewgle/static/css/main.d3aaa3ee.chunk.css",
+    "main.js": "/assignment-bewgle/static/js/main.84571013.chunk.js",
+    "main.js.map": "/assignment-bewgle/static/js/main.84571013.chunk.js.map",
+    "runtime-main.js": "/assignment-bewgle/static/js/runtime-main.08bd20f4.js",
+    "runtime-main.js.map": "/assignment-bewgle/static/js/runtime-main.08bd20f4.js.map",
+    "static/css/2.2a86faee.chunk.css": "/assignment-bewgle/static/css/2.2a86faee.chunk.css",
+    "static/js/2.ac6821e7.chunk.js": "/assignment-bewgle/static/js/2.ac6821e7.chunk.js",
+    "static/js/2.ac6821e7.chunk.js.map": "/assignment-bewgle/static/js/2.ac6821e7.chunk.js.map",
+    "index.html": "/assignment-bewgle/index.html",
+    "precache-manifest.d20130462c97c0f41581d4c69d3e0be0.js": "/assignment-bewgle/precache-manifest.d20130462c97c0f41581d4c69d3e0be0.js",
+    "service-worker.js": "/assignment-bewgle/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/assignment-bewgle/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.d3aaa3ee.chunk.css.map": "/assignment-bewgle/static/css/main.d3aaa3ee.chunk.css.map",
+    "static/js/2.ac6821e7.chunk.js.LICENSE.txt": "/assignment-bewgle/static/js/2.ac6821e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08bd20f4.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.ac6821e7.chunk.js",
+    "static/css/main.d3aaa3ee.chunk.css",
+    "static/js/main.84571013.chunk.js"
+  ]
+}
